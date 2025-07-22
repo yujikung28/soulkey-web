@@ -1,0 +1,11 @@
+:root {
+  --bg-color: #0f0e17;
+  --accent: #ff75c3;
+  --text: #eaeaea;
+}
+
+body {
+  background: var(--bg-color);
+  color: var(--text);
+  font-family: 'Prompt', sans-serif;
+}
